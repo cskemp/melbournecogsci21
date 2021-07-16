@@ -1,0 +1,77 @@
+---
+title: "Projects"
+output: html_document
+---
+
+<style type="text/css">
+
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+
+### Projects to be featured at the meetup
+
+<div class="row" style="padding-top: 40px;">
+<div class="col-sm-12">
+</div>
+
+
+<div class="col-sm-4">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=q0FVMk4NcOQ" target="_blank"><img src="http://img.youtube.com/vi/q0FVMk4NcOQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Milan Andrejevic
+
+Diffusion Decision Model and sources of moral decision caution (MathPsych 2021)
+</div>
+
+
+<div class="col-sm-4">
+<a href=" http://frermann.de/multiling_categories/cogsci2021_video.mp4"
+ target="_blank"><img src="images/frermann_frame0.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Lea Frermann & Mirella Lapata
+
+Categorization in the Wild: Category and Feature Learning across Languages
+
+[poster pdf,](http://frermann.de/multiling_categories/cogsci2021_poster.pdf ) [paper pdf](http://frermann.de/multiling_categories/cogsci2021_paper.pdf )
+</div>
+
+<div class="col-sm-4">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4F1BN2g-HZ8" target="_blank"><img src="http://img.youtube.com/vi/4F1BN2g-HZ8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Piers Howe, Andy Perfors & Keith Ransom
+
+What interventions can decrease or increase belief polarisation in a population of rational agents? (CogSci 2021)
+
+[paper pdf]( https://psyarxiv.com/ej2wm/ )
+
+</div>
+</div>
+
+<div class="row" style="padding-top: 40px;">
+<div class="col-sm-4">
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fUgs7dfC5B0" target="_blank"><img src="http://img.youtube.com/vi/fUgs7dfC5B0/0.jpg" 
+alt="Kevin Shabahang presentation" width="240" height="180" border="0" /></a>
+
+Kevin Shabahang
+
+Free Associations as Steady-states in Dynamic Spaces (MathPsych/ICCM 2021)
+
+</div>
+
+</div>
+
+### Other recent CogSci projects from Melbourne
+
+

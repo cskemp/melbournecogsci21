@@ -1,0 +1,41 @@
+---
+title: "Melbourne CogSci21 Meetup"
+output: html_document
+---
+
+<style type="text/css">
+
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 40px;">
+<div class="col-sm-12">
+
+Cognitive Scientists around the world are organizing [local meetup groups]( https://cskemp.github.io/cogscimeetups21/ ) in conjunction with  [CogSci 2021](  https://cognitivesciencesociety.org/cogsci-2021/ ). A meetup in Melbourne will take place on the afternoon of July 28. Please come by and hang out with others who are interested in Cognitive Science.
+
+* *What*: A 3-hour workshop for cognitive scientists.
+
+* *Who*: Anyone with an interest in Cognitive Science is welcome to attend, and registering for CogSci 2021 is not required. Students at all levels (e.g.\ undergraduates, honours students, and PhD students) and early career researchers are especially welcome and are encouraged to present their work. Industry researchers are also welcome.
+
+* *When*: July 28, 2:00 pm - 5:00 pm (Melbourne time)
+
+* *Where*: University of Melbourne, [Stop 1 building]( https://maps.unimelb.edu.au/parkville/building/199/stop-1 ), Rooms 109-111  (Enter from Swanston Street, take one flight of stairs then turn left)
+
+* *Format*: Our goal is to use most of the time for discussion and personal interaction. The format has not yet been finalized, but the first part of the workshop will focus on small group discussions. Each attendee will have a chance to introduce themselves to their group and talk about their interests. The second part will focus on research presentations. Presenters are invited to submit a recorded presentation before the workshop. The presentation can be up to 15 minutes long, but shorter presentations (e.g 3 - 5 minutes long) are also welcome. Recordings already prepared for a poster or oral presentation at CogSci 2021 or another conference (e.g. MathPsych/ICCM 2021 ) are ideal. All recordings will be made available for viewing before the workshop.  On the day each presenter will give a blitz-style reminder talk for 3 minutes, with plenty of time allocated for discussion. Giving a blitz-style talk without submitting a recorded presentation is also possible. 
+
+* *Registration*: Registration is free, but please fill out this [registration form](https://forms.gle/VZB83teuD5RLjqy46 ) by the end of July 19. Late registration is possible but we're aiming to have recorded presentations available for viewing from July 21 on.
+
+* *COVID-19*: We're hoping that the lockdown will lift in time for the meetup to go ahead!
+The meetup will follow university guidelines for [COVIDSafe events]( https://students.unimelb.edu.au/student-support/coronavirus/return-to-campus ). You'll need to use a QR code to check in when you enter the Stop 1 building, and we'll follow the mask policy that's current as of July 28.  Food and drinks will not be provided.
+
+* *Code of Conduct*: The meetup code of conduct is [here]( https://cskemp.github.io/cogscimeetups21/codeofconduct.html ).
+
+</div>
+</div>

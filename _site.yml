@@ -1,0 +1,13 @@
+name: "Melbourne CogSci21 Meetup"
+navbar:
+  title: "Melbourne CogSci21 Meetup"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Code of Conduct"
+      href: codeofconduct.html
+exclude: ["docs"]
+      
+    
