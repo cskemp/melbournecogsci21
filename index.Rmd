@@ -35,7 +35,7 @@ Cognitive Scientists around the world are organizing [local meetup groups]( http
 * *COVID-19*: We're hoping that the lockdown will lift in time for the meetup to go ahead!
 The meetup will follow university guidelines for [COVIDSafe events]( https://students.unimelb.edu.au/student-support/coronavirus/return-to-campus ). You'll need to use a QR code to check in when you enter the Stop 1 building, and we'll follow the mask policy that's current as of July 28.  Food and drinks will not be provided.
 
-* *Code of Conduct*: The meetup code of conduct is [here]( https://cskemp.github.io/cogscimeetups21/codeofconduct.html ).
+* *Code of Conduct*: The meetup code of conduct is [here]( codeofconduct.html ).
 
 </div>
 </div>
