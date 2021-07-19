@@ -40,7 +40,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
 
 Lea Frermann & Mirella Lapata
 
-Categorization in the Wild: Category and Feature Learning across Languages
+Categorization in the Wild: Category and Feature Learning across Languages (CogSci 2021)
 
 [poster pdf,](http://frermann.de/multiling_categories/cogsci2021_poster.pdf ) [paper pdf](http://frermann.de/multiling_categories/cogsci2021_paper.pdf )
 </div>
@@ -54,7 +54,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
 Jacob Kuek & Vanessa Ferdinand 
 
 Zipf’s law of abbreviation and common ground: Past communicative success
-hampers the re-optimization of language
+hampers the re-optimization of language (CogSci 2021)
 
 [poster pdf,](images/kuek_poster.pdf ) [paper pdf](images/kuek_paper.pdf )
 </div>
