@@ -45,6 +45,25 @@ Categorization in the Wild: Category and Feature Learning across Languages
 [poster pdf,](http://frermann.de/multiling_categories/cogsci2021_poster.pdf ) [paper pdf](http://frermann.de/multiling_categories/cogsci2021_paper.pdf )
 </div>
 
+
+<div class="col-sm-4">
+<a href="images/kuek_presentation.mp4"
+ target="_blank"><img src="images/kuek_screenshot.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Jacob Kuek & Vanessa Ferdinand 
+
+Zipf’s law of abbreviation and common ground: Past communicative success
+hampers the re-optimization of language
+
+[poster pdf,](images/kuek_poster.pdf ) [paper pdf](images/kuek_paper.pdf )
+</div>
+
+
+</div>
+
+<div class="row" style="padding-top: 40px;">
+
 <div class="col-sm-4">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4F1BN2g-HZ8" target="_blank"><img src="http://img.youtube.com/vi/4F1BN2g-HZ8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
@@ -56,9 +75,7 @@ What interventions can decrease or increase belief polarisation in a population 
 [paper pdf]( https://psyarxiv.com/ej2wm/ )
 
 </div>
-</div>
 
-<div class="row" style="padding-top: 40px;">
 <div class="col-sm-4">
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fUgs7dfC5B0" target="_blank"><img src="http://img.youtube.com/vi/fUgs7dfC5B0/0.jpg" 
@@ -73,5 +90,22 @@ Free Associations as Steady-states in Dynamic Spaces (MathPsych/ICCM 2021)
 </div>
 
 ### Other recent projects from Melbourne
+
+
+<div class="row" style="padding-top: 40px;">
+<div class="col-sm-4">
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=r9L9zNPfXM8" target="_blank"><img src="http://img.youtube.com/vi/r9L9zNPfXM8/0.jpg" 
+alt="Keith Ransom presentation" width="240" height="180" border="0" /></a>
+
+Keith Ransom, Andrew Perfors & Rachel Stephens, 
+
+Social meta-inference and the evidentiary value of consensus (MathPsych 2021, CogSci 2021)
+
+[paper pdf]( https://psyarxiv.com/49sb5/ )
+
+</div>
+
+</div>
 
 
