@@ -16,20 +16,19 @@ output: html_document
 </style>
 
 
-### Projects to be featured at the meetup
+### Projects featured at the meetup
 
 <div class="row" style="padding-top: 40px;">
 <div class="col-sm-12">
 </div>
 
-
 <div class="col-sm-4">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=q0FVMk4NcOQ" target="_blank"><img src="http://img.youtube.com/vi/q0FVMk4NcOQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
 
-Milan Andrejevic
+Milan Andrejevic, Joshua White, Daniel Feuerriegel, Simon Laham & Stefan Bode
 
-Diffusion Decision Model and sources of moral decision caution (MathPsych 2021)
+Response time modelling reveals evidence for multiple, distinct sources of moral decision caution  (MathPsych 2021)
 </div>
 
 
@@ -46,6 +45,24 @@ Categorization in the Wild: Category and Feature Learning across Languages (CogS
 </div>
 
 
+
+<div class="col-sm-4">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4F1BN2g-HZ8" target="_blank"><img src="http://img.youtube.com/vi/4F1BN2g-HZ8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
+
+Piers Howe, Andrew Perfors & Keith Ransom
+
+What interventions can decrease or increase belief polarisation in a population of rational agents? (CogSci 2021)
+
+[paper pdf]( https://psyarxiv.com/ej2wm/ )
+
+</div>
+
+</div>
+
+
+<div class="row" style="padding-top: 40px;">
+
 <div class="col-sm-4">
 <a href="images/kuek_presentation.mp4"
  target="_blank"><img src="images/kuek_screenshot.png" 
@@ -60,28 +77,12 @@ hampers the re-optimization of language (CogSci 2021)
 </div>
 
 
-</div>
-
-<div class="row" style="padding-top: 40px;">
-
-<div class="col-sm-4">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4F1BN2g-HZ8" target="_blank"><img src="http://img.youtube.com/vi/4F1BN2g-HZ8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="0" /></a>
-
-Piers Howe, Andy Perfors & Keith Ransom
-
-What interventions can decrease or increase belief polarisation in a population of rational agents? (CogSci 2021)
-
-[paper pdf]( https://psyarxiv.com/ej2wm/ )
-
-</div>
-
 <div class="col-sm-4">
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fUgs7dfC5B0" target="_blank"><img src="http://img.youtube.com/vi/fUgs7dfC5B0/0.jpg" 
 alt="Kevin Shabahang presentation" width="240" height="180" border="0" /></a>
 
-Kevin Shabahang
+Kevin Shabahang, Hyungwook Yim & Simon Dennis
 
 Free Associations as Steady-states in Dynamic Spaces (MathPsych/ICCM 2021)
 
@@ -94,7 +95,6 @@ Free Associations as Steady-states in Dynamic Spaces (MathPsych/ICCM 2021)
 
 <div class="row" style="padding-top: 40px;">
 <div class="col-sm-4">
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=r9L9zNPfXM8" target="_blank"><img src="http://img.youtube.com/vi/r9L9zNPfXM8/0.jpg" 
 alt="Keith Ransom presentation" width="240" height="180" border="0" /></a>
 
@@ -105,6 +105,24 @@ Social meta-inference and the evidentiary value of consensus (MathPsych 2021, Co
 [paper pdf]( https://psyarxiv.com/49sb5/ )
 
 </div>
+
+
+<div class="col-sm-4">
+Aurélien Fermo and Charles Kemp
+
+Temporal Continuity and the Judgment of Actual Causation (CogSci 2021)
+
+[paper pdf]( http://www.charleskemp.com/papers/fermok_temporalcontinuityandthejudgmentofactualcausation.pdf   )
+</div>
+
+<div class="col-sm-4">
+Hyungwook Kim, Olivera Savic, Alex Barkheimer, Vladimir Sloutsky & Simon Dennis 
+
+The mystery of early taxonomic development (CogSci 2021)
+
+[paper pdf](  http://lapensee.ivyro.net/my_articles/peer/YimSavicBarkhimeSloutskyDennis_2021_CogSci.pdf )
+</div>
+
 
 </div>
 
